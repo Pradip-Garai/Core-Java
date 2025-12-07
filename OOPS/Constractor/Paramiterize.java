@@ -1,4 +1,3 @@
-package OOPS.Constractor;
 
 class Employee{
     private String name,role;

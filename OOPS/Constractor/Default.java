@@ -1,4 +1,3 @@
-package OOPS.Constractor;
 
 public class Default {
 
